@@ -3,7 +3,7 @@
 /**
  * Kirby 3 Disable FLoC
  *
- * @version   0.0.1
+ * @version   0.0.2
  * @author    Marijn Roovers <marijn@mrfd.nl>
  * @copyright Marijn Roovers <marijn@mrfd.nl>
  * @link      https://github.com/mrfd/kirby-disable-floc

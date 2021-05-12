@@ -1,5 +1,6 @@
 {
   "name": "mrfd/kirby-disable-floc",
+  "version": "0.0.2",
   "description": "Automatically disable Google's floc in Kirby 3",
   "type": "kirby-plugin",
   "license": "MIT",
