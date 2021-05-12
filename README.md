@@ -2,6 +2,12 @@
 
 This plugin for [Kirby 3](https://getkirby.com) disables Google's FLoC automatically.
 
+## Commerical Usage
+
+This plugin is free but if you use it in a commercial project please consider to
+- [Make a donation](https://paypal.me/mrfdnl/5) or
+- [Buy me a coffee](https://buymeacoff.ee/mrfd)
+
 ## Requirements
 
 -   PHP 7.3+
